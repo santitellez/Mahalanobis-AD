@@ -1,0 +1,8 @@
+README.md
+setup.py
+mahala_ad/__init__.py
+mahala_ad/mahala_ad.py
+mahala_ad.egg-info/PKG-INFO
+mahala_ad.egg-info/SOURCES.txt
+mahala_ad.egg-info/dependency_links.txt
+mahala_ad.egg-info/top_level.txt
